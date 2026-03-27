@@ -1,6 +1,6 @@
 <!-- Cabeçalho opcional (pode remover se quiser mais clean) -->
 <div align="center">
-  <img height="180" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Lucas!;Estudante+de+Análise+e+Desenvolvimento+de+Software;Desenvolvedor+Full+Stack" />
+  <img height="180" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Lucas!;Estudante+do+SENAI;Desenvolvedor+Full+Stack" />
 </div>
 
 <br>
